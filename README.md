@@ -2,4 +2,4 @@
 Concept art for Application to split money with friends.
 
 
-![Concept art](concept art.png)
+![Concept art](concept-art.png)
